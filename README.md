@@ -24,7 +24,7 @@ This program is designed to convert numbers to their corresponding textual repre
 3. Run the software:
 
    ```bash
-   Run-in-windows.exe
+   start Run-in-windows.exe
    ```
 
 ## Usage
