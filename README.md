@@ -12,7 +12,7 @@ This program is designed to convert numbers to their corresponding textual repre
 1. Clone the repository:
 
    ```bash
-   git https://github.com/Amirho3einzM/Number-to-Letter.git
+   git clone https://github.com/Amirho3einzM/Number-to-Letter.git
    ```
 
 2. Navigate to the project directory:
