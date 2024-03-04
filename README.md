@@ -21,10 +21,15 @@ This program is designed to convert numbers to their corresponding textual repre
    cd Number-to-Letter
    ```
 
-3. Run the software:
+3. Make exe File:
 
    ```bash
-   start Run-in-windows.exe
+   g++ -o my_program .\Number-to-Letter.cpp
+   ```
+4. Run the software:
+
+   ```bash
+   start .\my_program.exe
    ```
 
 ## Usage
